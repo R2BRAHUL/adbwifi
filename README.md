@@ -118,3 +118,4 @@ git clone https://github.com/R2BRAHUL/adbwifi
 cd adbwifi
 chmod +x install.sh
 ./install.sh
+adbwifi
