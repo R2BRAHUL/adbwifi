@@ -14,14 +14,14 @@ Let's make it better together.
 — R2BRAHUL | Cyber7F
 ---
 
-🔥 ADBWiFi v0.2 — Major Update!
+🔥 ADBWiFi v0.1 — Major Update!
 
 adbwifi is a lightweight yet powerful ADB over Wi-Fi automation tool developed under the Cyber7F banner. This v0.2 update transforms the tool into a framework-style utility with a polished user interface and several new features.
 
 
 ---
 
-🆕 What's New in v0.2
+🆕 What's New in v0.1
 
 ✅ Cyber7F Branded Welcome Interface
 
